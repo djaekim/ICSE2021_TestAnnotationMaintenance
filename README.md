@@ -26,7 +26,7 @@ TestAnnotationMaintenance_Data is a collection of annotation edit patterns (i.e.
 ```
 TestAnnotationMaintenance_Data
 │
-├── manual_study_dataset:				The manual study analysis from the stratified samples of the raw_annotation_edit_patterns
-├── raw_annotation_edit_patterns:				The annotation edit pattern dataset used for the study
+├── manual_study_dataset:	The manual study analysis from the stratified samples of the raw_annotation_edit_patterns
+├── raw_annotation_edit_patterns: The annotation edit pattern dataset used for the study
 
 ```
